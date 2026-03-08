@@ -1,7 +1,7 @@
 <div align="center">
   <h1>¡Hola! Soy Moisés 👋</h1>
   <h3>Ingeniero de Sistemas | Desarrollo Web & Arquitectura de Software</h3>
-  <p>Construyendo soluciones escalables y expandiendo mis horizontes hacia el desarrollo de videojuegos.</p>
+  <p>Construyendo soluciones escalables y expandiendo mis horizontes cada día.</p>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 - 🔭 Me enfoco principalmente en el **Desarrollo Web** y la **Arquitectura de Software**, buscando siempre las mejores prácticas y eficiencia.
 - 🌱 Actualmente estudiando y experimentando activamente con el **Desarrollo de Videojuegos**.
 - 🎮 Dando vida a **Misspelt**, un proyecto que une lógica de programación con mecánicas de juego interactivas.
-- 💬 Pregúntame sobre: Next.js, arquitecturas backend, o cómo optimizar tu entorno en Arch Linux.
+- 💬 Pregúntame sobre: React, arquitecturas backend, o cómo optimizar tu entorno en Arch Linux.
 - 📫 Contáctame: [moisescaardenas13@gmail.com](mailto:moisescaardenas13@gmail.com) o [mcardenas.4094@unimar.edu.ve](mailto:mcardenas.4094@unimar.edu.ve).
 
 ---
@@ -54,12 +54,12 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pakelin3&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Pakelin3" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakelin3&theme=tokyonight" alt="Estadísticas de Pakelin3" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pakelin3&theme=tokyonight&hide_border=true" alt="Racha de Pakelin3" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakelin3&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakelin3&theme=tokyonight" alt="Lenguajes más usados" />
 </div>
