@@ -18,28 +18,37 @@
 
 ### 🛠️ Stack Tecnológico y Herramientas
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,vite,npm&perline=10" alt="Frontend Stack" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,cs,cpp,godot&perline=10" alt="Backend and Game Dev Stack" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,postman,figma&perline=10" alt="Tools and DB" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,notion,obsidian&perline=10" alt="OS and Productivity" />
-  </a>
-</div>
+**🌐 Frontend**
 <br>
-<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,vite" alt="Frontend" />
+</a>
+<br><br>
+
+**⚙️ Backend & Bases de Datos**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,java,cs,cpp,postgres" alt="Backend" />
+</a>
+<br><br>
+
+**🧰 Herramientas**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,npm,notion,obsidian" alt="Herramientas" />
+</a>
+<br><br>
+
+**🖥️ Entornos & Sistemas Operativos**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=godot,linux,arch" alt="Entornos" />
+</a>
+<br><br>
+
+<p>
   <em>*Nota: También integro frecuentemente JWT, Google API Auth y Apidog en mis flujos de trabajo.*</em>
 </p>
-
 ---
 
 ### 🚀 Proyectos Destacados
