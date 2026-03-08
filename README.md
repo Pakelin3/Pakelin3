@@ -54,12 +54,16 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakelin3&theme=tokyonight" alt="Estadísticas de Pakelin3" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pakelin3&theme=tokyonight&hide_border=true" alt="Racha de Pakelin3" width="48%" />
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakelin3&theme=tokyonight" alt="Estadísticas de Pakelin3" width="48%" />
+</div>
+
+<br>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakelin3&theme=tokyonight" alt="Lenguajes más usados" />
 </div>
